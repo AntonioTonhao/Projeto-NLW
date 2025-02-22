@@ -1,0 +1,1 @@
+Projeto NLW Connect de um sistema web utilizando React.js, tailwind e Node.js, em que podemos fazer o cadastro para inscrição em um evento e ir adicionando automaticamente em um ranking para ganhar premios !
